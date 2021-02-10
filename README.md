@@ -10,7 +10,7 @@ Covid Vaccine, as of Feb 2021, has mixed response amongst the general population
 1. Team Member: [Annie Chandolu]()
 1. Team Member: [Alekhya Jaddu](https://github.com/alekhyajaddu)
 1. Team Member: [Tejaswi Reddy](https://github.com/Teju2404)
-1. Team Member: [Anshitha](https://github.com/anshithavelagapudi)
+1. Team Member: [Naga Anshitha Velagapudi](https://github.com/anshithavelagapudi)
 1. Team Member: [Harika Kulkarni](https://github.com/KHARIKA17)
 
 ## Datasets Used
