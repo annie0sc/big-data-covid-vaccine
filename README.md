@@ -25,7 +25,7 @@ Using COVID-19 cases, will analyze at what rate the patients are recovering back
 ## Datasets Used
 
 ### Static Dataset: 
-* Kaggle Dataset, Twitter dataset, [tweets on Covid Vaccine](https://www.kaggle.com/kaushiksuresh147/covidvaccine-tweets).
+* [covid-metrics](https://www.kaggle.com/kaushiksuresh147/covidvaccine-tweets).
 
 ### Streaming Data:
 * We will be using live streaming data, tweets, from Twitter as part of our future improvements to the project.
