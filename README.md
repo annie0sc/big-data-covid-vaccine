@@ -41,5 +41,5 @@ Using COVID-19 cases, will analyze at what rate the patients are recovering back
 * Annie Samarpitha - 
 * Alekya - 
 * Tejaswi Reddy Kandula - Going to work on Shell Scripting. 
-* Anshitha - 
+* Naga Anshitha Velagapudi - Going to work on Flink which is used to process data streams in large data.
 * 
