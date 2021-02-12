@@ -32,14 +32,14 @@ Using COVID-19 cases, will analyze at what rate the patients are recovering back
 
 ## Tech Stack
 
-* Language: Python
+* Progamming Language: [Python](https://docs.python.org/3/c-api/index.html)
 * [Flink](https://github.com/apache/flink)
-* Hadoop
+* Database: [Hadoop](https://hadoop.apache.org/docs/stable/api/index.html)
 
 ## Tasks/Issues
 * Swaroop Reddy - Going to work on HDFS (Hadoop) MapReduce Programming Model.
-* Annie Samarpitha - 
-* Alekya - 
+* Annie Samarpitha - I will be working with Alekhya on Python programming. 
+* Alekhya Jaddu - Will be working on the programming part using Python scripts.
 * Tejaswi Reddy Kandula - Going to work on Shell Scripting. 
 * Naga Anshitha Velagapudi - Going to work on Flink which is used to process data streams in large data.
-* 
+* Harika Kulkarni - 
