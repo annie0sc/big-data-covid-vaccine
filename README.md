@@ -2,8 +2,7 @@
 
 ## Objective
 
-Covid Vaccine, as of Feb 2021, has mixed response amongst the general population. Hence, we are using Twitter data to analyses exactly how much the tweets are impacting on the people.
-Using COVID-19 cases, will analyze at what rate the patients are recovering back to health, based on different criteria like age, gender, immunity power, etc.
+Covid-19 is currently the topic of research this season. We have decided to work on analyzing the recovery rates of patients based on their age, gender, and other criteria. To achieve this, we will be using a dataset from Kaggle to process static data, then we will move to live streaming data from Twitter. Apache Hadoop will be used as the file system, Apache Flink will be used for live streaming data from Twitter and Python will be tying together this whole project, hence the name: PyFlink-Covid-Vaccine.
 
 ## Meet the Team
 
@@ -33,8 +32,8 @@ Using COVID-19 cases, will analyze at what rate the patients are recovering back
 ## Tech Stack
 
 * Progamming Language: [Python](https://docs.python.org/3/c-api/index.html)
-* [Flink](https://github.com/apache/flink)
-* Database: [Hadoop](https://hadoop.apache.org/docs/stable/api/index.html)
+* Steaming Engine: [Flink](https://github.com/apache/flink)
+* File System: [Hadoop](https://hadoop.apache.org/docs/stable/api/index.html)
 
 ## Tasks/Issues
 * Swaroop Reddy - Going to work on HDFS (Hadoop) MapReduce Programming Model.
