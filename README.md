@@ -33,7 +33,7 @@ Using COVID-19 cases, will analyze at what rate the patients are recovering back
 ## Tech Stack
 
 * Language: Python
-* Flink
+* [Flink](https://github.com/apache/flink)
 * Hadoop
 
 ## Tasks/Issues
