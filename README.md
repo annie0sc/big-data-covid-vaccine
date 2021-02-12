@@ -39,7 +39,7 @@ Using COVID-19 cases, will analyze at what rate the patients are recovering back
 ## Tasks/Issues
 * Swaroop Reddy - Going to work on HDFS (Hadoop) MapReduce Programming Model.
 * Annie Samarpitha - 
-* Alekya - 
+* Alekhya Jaddu - Will be working on the programming part using Python scripts.
 * Teja - 
 * Harika - 
 * Anshitha - 
