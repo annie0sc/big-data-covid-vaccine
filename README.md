@@ -1,11 +1,8 @@
 # Big Data - Covid Vaccine
 
-## Agenda
-
-Covid Vaccine, as of Feb 2021, has mixed response amongst the general population. Hence, we are using Twitter data to analyses exactly how much the tweets are impacting on the people.
-
 ## Objective
 
+Covid Vaccine, as of Feb 2021, has mixed response amongst the general population. Hence, we are using Twitter data to analyses exactly how much the tweets are impacting on the people.
 Using COVID-19 cases, will analyze at what rate the patients are recovering back to health, based on different criteria like age, gender, immunity power, etc.
 
 ## Meet the Team
