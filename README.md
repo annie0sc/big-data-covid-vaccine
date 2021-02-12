@@ -30,8 +30,17 @@ Using COVID-19 cases, will analyze at what rate the patients are recovering back
 ### Streaming Data:
 * We will be using live streaming data, tweets, from Twitter as part of our future improvements to the project.
 
-## Tech Implemented
+## Tech Stack
 
 * Language: Python
 * Flink
 * Hadoop
+
+## Tasks/Issues
+* Swaroop Reddy - Going to work on HDFS (Hadoop) MapReduce Programming Model.
+* Annie Samarpitha - 
+* Alekya - 
+* Teja - 
+* Harika - 
+* Anshitha - 
+* 
