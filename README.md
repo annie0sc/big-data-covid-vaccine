@@ -41,4 +41,4 @@ Covid-19 is currently the topic of research this season. We have decided to work
 * Alekhya Jaddu - Will be working on the programming part using Python scripts.
 * Tejaswi Reddy Kandula - Going to work on Shell Scripting. 
 * Naga Anshitha Velagapudi - Going to work on Flink which is used to process data streams in large data.
-* Harika Kulkarni - 
+* Harika Kulkarni - Will be working on Flink.
