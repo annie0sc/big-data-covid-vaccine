@@ -32,7 +32,8 @@ Covid-19 is currently the topic of research this season. We have decided to work
 ## Tech Stack
 
 * Progamming Language: [Python](https://docs.python.org/3/c-api/index.html)
-* Steaming Engine: [Flink](https://flink.apache.org/), [Wiki](https://github.com/apache/flink)
+* Steaming Engine: [Flink](https://flink.apache.org/)
+ -  [Wiki-Link for Flink](https://github.com/apache/flink)
 * File System: [Hadoop](https://hadoop.apache.org/docs/stable/api/index.html)
 
 ## Tasks/Issues
