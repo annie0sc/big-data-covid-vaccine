@@ -154,6 +154,12 @@ env.execute(local=True)
 
 * I have run this code in Flink in Local Machine iam getting Module_not found error iam trying to resolve it.I will update it once it gets resolved.
 
+### References:
+
+* [ApacheFlinkExample](https://ci.apache.org/projects/flink/flink-docs-release-1.0/apis/batch/python.html)
+* [ApacheFLink](https://flink.apache.org/)
+
+
 
 
 
