@@ -78,5 +78,38 @@ You can also build PyFlink from source by following the development guide.
 
 Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally on Windows and so you could develop and debug PyFlink jobs on Windows.
 
+# TEJASWI REDDY KANDULA
+
+## Prerequisites
+* Apache Flink 
+* Pip
+* Python(3.6.0 to 3.8.0 version)
+
+## Installation of Python
+If any other versions of python are previously installed in your system use the below command to uninstall
+```
+choco uninstall python
+```
+To install python of a specific version use the below command
+```
+choco install python version=3.8.0
+```
+## Installation steps for PyFlink
+
+The version of python should be (3.5, 3.6, 3.7 or 3.8) for PyFlink. Please run the following command to make sure that it meets the requirements:
+```
+$ python --version
+```
+Use the below command to install apache-flink 
+```
+$ python -m pip install apache-flink 
+```
+You can also build PyFlink from source by following the development guide.
+
+Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally on Windows and so you could develop and debug PyFlink jobs on Windows.
+
+
+
+
 
 
