@@ -150,6 +150,24 @@ data \
 
 env.execute(local=True)
 ```
+- To read data from files
+
+```
+env = get_environment()
+text = env.read_text("file:///path/to/file")
+```
+
+- Dataset that needs to be written to disk.Can call one of these methods on DataSet:
+```
+data.write_text("<file-path>", WriteMode=Constants.NO_OVERWRITE)
+write_csv("<file-path>", line_delimiter='\n', field_delimiter=',', write_mode=Constants.NO_OVERWRITE)
+output()
+```
+- Transformations to the new dataset
+
+```
+data.map(lambda x: x*2)
+```
 ### Output: 
 
 * I have run this code in Flink in Local Machine iam getting Module_not found error iam trying to resolve it.I will update it once it gets resolved.
