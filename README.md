@@ -24,7 +24,7 @@ Covid-19 is currently the topic of research this season. We have decided to work
 ## Datasets Used
 
 ### Static Dataset: 
-* [covid-metrics](https://www.kaggle.com/kaushiksuresh147/covidvaccine-tweets).
+* [covid-metrics](https://www.kaggle.com/imdevskp/corona-virus-report?select=country_wise_latest.csv)
 
 ### Streaming Data:
 * We will be using live streaming data, tweets, from Twitter as part of our future improvements to the project.
@@ -51,5 +51,6 @@ Apache Flink is a framework and distributed processing engine for stateful compu
 
 ## Installations
 1. [Flink](https://ci.apache.org/projects/flink/flink-docs-release-1.12/try-flink/local_installation.html)
+
 
 
