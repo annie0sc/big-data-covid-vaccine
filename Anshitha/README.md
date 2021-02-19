@@ -16,3 +16,14 @@ To understand why, let's first consider some of the benefits of using the Flink 
 - Advantageous architecture: Flink is a pure stream computing engine with unified stream and batch processing capabilities.
 - Fresh vitality: Flink is the most active open-source project in 2019 according to objective statistics of ASF.
 - High reliability: As an open-source project, Flink has long been tested and widely applied in big data companies' production environments.
+
+## The PyFlink Architecture
+
+- Make all Flink features available to Python users.
+- Run Python's analysis and computing functions on Flink to improve Python's ability to resolve big data issues.
+
+### The Key Issue
+
+- Establish a handshake between a Python virtual machine (PyVM) and a Java virtual machine (JVM), which is essential for Flink to support multiple languages.
+- To resolve this issue, we must select an appropriate communications technology.
+- They are Apache Beam and Py4J.
