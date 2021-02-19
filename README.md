@@ -45,12 +45,12 @@ Covid-19 is currently the topic of research this season. We have decided to work
 * Harika Kulkarni - Will be working on Flink.
 
 ## SUbTopics:
-1.Swaroop Reddy - Datastream Processing
-1.Annie Samarpitha - Weekly cases and deaths weekly counts
-1.Alekhya Jaddu - Wordcount using pyFlink
-1.Tejaswi Reddy Kandula - Wordcount using Flink
-1.Naga Anshitha Velagapudi - Analyze active and critical cases
-1.Harika Kulkarni - countrywise highest recovery rates versus death rates
+1. Swaroop Reddy - Datastream Processing
+1. Annie Samarpitha - Weekly cases and deaths weekly counts
+1. Alekhya Jaddu - Wordcount using pyFlink
+1. Tejaswi Reddy Kandula - Wordcount using Flink
+1. Naga Anshitha Velagapudi - Analyze active and critical cases
+1. Harika Kulkarni - countrywise highest recovery rates versus death rates
 
 ## Prerequisites
 * Apache Flink 
