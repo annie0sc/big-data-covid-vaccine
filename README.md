@@ -62,7 +62,12 @@ choco install python version=3.8.0
 ```
 
 ## Apache Flink
-Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+- Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+- Flink also provides batch processing, graph processing, Itearative proccessing for Machine learning applications.
+- Flink is considered as the next-gen stream processing system.
+- Flink offers substantially higher processing speeds to spark and hadoop.
+- Flink provides low latency and high throughput
+
 
 ## Installation steps for PyFlink
 
