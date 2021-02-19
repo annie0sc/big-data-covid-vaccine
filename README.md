@@ -48,3 +48,8 @@ Covid-19 is currently the topic of research this season. We have decided to work
 
 ## Apache Flink
 Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+
+## Installations
+1. [Flink](https://ci.apache.org/projects/flink/flink-docs-release-1.12/try-flink/local_installation.html)
+
+
