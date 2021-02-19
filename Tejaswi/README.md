@@ -1,7 +1,6 @@
 # TEJASWI REDDY KANDULA
 
 ## SUBTOPIC: Wordcount using Flink
-
 ## Prerequisites
 * Apache Flink 
 * Pip
