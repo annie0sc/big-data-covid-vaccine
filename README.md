@@ -45,12 +45,12 @@ Covid-19 is currently the topic of research this season. We have decided to work
 * Harika Kulkarni - Will be working on Flink.
 
 ## SubTopics:
-1. Swaroop Reddy Gottigundala- Datastream Processing
-1. Annie Samarpitha Chandolu- Weekly cases and deaths weekly counts
-1. Alekhya Jaddu - Wordcount using pyFlink
+1. Swaroop Reddy Gottigundala- Datastream Processing.
+1. Annie Samarpitha Chandolu- Analysis on Weekly cases and deaths weekly counts.
+1. Alekhya Jaddu - Wordcount using pyFlink.
 1. Tejaswi Reddy Kandula - Wordcount using Flink
-1. Naga Anshitha Velagapudi - Analyze active and critical cases
-1. Harika Kulkarni - countrywise highest recovery rates versus death rates
+1. Naga Anshitha Velagapudi - Analyze active and critical cases.
+1. Harika Kulkarni - countrywise highest recovery rates versus death rates.
 
 ## Prerequisites
 * Apache Flink 
@@ -105,6 +105,14 @@ Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally
 ### Demonstration video
 https://app.vidgrid.com/view/zGuTOAcK3IiC
 
- 
+ ## Annie Chandolu
+
+ I am doing an analysis on a Covid dataset which is stored in the following repository:
+
+ https://github.com/annie0sc/practice-flink-wordcount
+
+ #### A Preview of my work: VIDEO
+
+ https://use.vg/hboCoj
 
 
