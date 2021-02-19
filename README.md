@@ -44,6 +44,11 @@ Covid-19 is currently the topic of research this season. We have decided to work
 * Naga Anshitha Velagapudi - Going to work on Flink which is used to process data streams in large data.
 * Harika Kulkarni - Will be working on Flink.
 
+## Prerequisites
+* Apache Flink 
+* Pip
+* Python(3.6.0 to 3.8.0 version)
+
 ## Description
 
 ## Installation of Python
