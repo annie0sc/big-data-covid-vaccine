@@ -113,6 +113,7 @@ You can also build PyFlink from source by following the development guide.
 
 Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally on Windows and so you could develop and debug PyFlink jobs on Windows.
 
+## Link to Video: https://app.vidgrid.com/view/ELbJK68EX0hP 
 
 
 
