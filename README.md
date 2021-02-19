@@ -44,6 +44,14 @@ Covid-19 is currently the topic of research this season. We have decided to work
 * Naga Anshitha Velagapudi - Going to work on Flink which is used to process data streams in large data.
 * Harika Kulkarni - Will be working on Flink.
 
+## SUbTopics:
+1.Swaroop Reddy - Datastream Processing
+1.Annie Samarpitha - Weekly cases and deaths weekly counts
+1.Alekhya Jaddu - Wordcount using pyFlink
+1.Tejaswi Reddy Kandula - Wordcount using Flink
+1.Naga Anshitha Velagapudi - Analyze active and critical cases
+1.Harika Kulkarni - countrywise highest recovery rates versus death rates
+
 ## Prerequisites
 * Apache Flink 
 * Pip
@@ -113,7 +121,8 @@ You can also build PyFlink from source by following the development guide.
 
 Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally on Windows and so you could develop and debug PyFlink jobs on Windows.
 
-## Link to Video: https://app.vidgrid.com/view/ELbJK68EX0hP 
+### Video:
+[Link to Video](https://app.vidgrid.com/view/ELbJK68EX0hP) 
 
 
 
