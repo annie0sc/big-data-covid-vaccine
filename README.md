@@ -44,9 +44,9 @@ Covid-19 is currently the topic of research this season. We have decided to work
 * Naga Anshitha Velagapudi - Going to work on Flink which is used to process data streams in large data.
 * Harika Kulkarni - Will be working on Flink.
 
-## SUbTopics:
-1. Swaroop Reddy - Datastream Processing
-1. Annie Samarpitha - Weekly cases and deaths weekly counts
+## SubTopics:
+1. Swaroop Reddy Gottigundala- Datastream Processing
+1. Annie Samarpitha Chandolu- Weekly cases and deaths weekly counts
 1. Alekhya Jaddu - Wordcount using pyFlink
 1. Tejaswi Reddy Kandula - Wordcount using Flink
 1. Naga Anshitha Velagapudi - Analyze active and critical cases
@@ -58,6 +58,19 @@ Covid-19 is currently the topic of research this season. We have decided to work
 * Python(3.6.0 to 3.8.0 version)
 
 ## Description
+## Apache Flink
+- Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+- Flink also provides batch processing, graph processing, Itearative proccessing for Machine learning applications.
+- Flink is considered as the next-gen stream processing system.
+- Flink offers substantially higher processing speeds to spark and hadoop.
+- Flink provides low latency and high throughput
+
+## ALEKHYA JADDU
+## Sub-Topic: WordCount using pyFlink
+### Prerequisites:
+* Apache Flink 
+* PIP
+* Python(3.6.0 to 3.8.0 version)
 
 ## Installation of Python
 If any other versions of python are previously installed in your system use the below command to uninstall
@@ -68,15 +81,6 @@ To install python of a specific version use the below command
 ```
 choco install python version=3.8.0
 ```
-
-## Apache Flink
-- Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
-- Flink also provides batch processing, graph processing, Itearative proccessing for Machine learning applications.
-- Flink is considered as the next-gen stream processing system.
-- Flink offers substantially higher processing speeds to spark and hadoop.
-- Flink provides low latency and high throughput
-
-
 ## Installation steps for PyFlink
 
 The version of python should be (3.5, 3.6, 3.7 or 3.8) for PyFlink. Please run the following command to make sure that it meets the requirements:
@@ -91,9 +95,16 @@ You can also build PyFlink from source by following the development guide.
 
 Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally on Windows and so you could develop and debug PyFlink jobs on Windows.
 
+### Code for Word Count using PyFlink:
+[word_count.py](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Alekhya/word_count.py)
+### Input file
+[input.txt](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Alekhya/covid19-INDIA.txt) 
+### Output file
+[output.txt](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Alekhya/output.txt)
 
+### Demonstration video
+https://app.vidgrid.com/view/zGuTOAcK3IiC
 
-
-
+ 
 
 
