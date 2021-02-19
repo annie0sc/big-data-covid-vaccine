@@ -46,7 +46,7 @@ Covid-19 is currently the topic of research this season. We have decided to work
 
 ## SubTopics:
 1. Swaroop Reddy Gottigundala- Datastream Processing.
-1. Annie Samarpitha Chandolu- Analysis on Weekly cases and deaths weekly counts.
+1. Annie Samarpitha Chandolu- Analysis on weekly-cases and deaths-weekly counts.
 1. Alekhya Jaddu - Wordcount using pyFlink.
 1. Tejaswi Reddy Kandula - Wordcount using Flink
 1. Naga Anshitha Velagapudi - Analyze active and critical cases.
@@ -106,6 +106,8 @@ Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally
 https://app.vidgrid.com/view/zGuTOAcK3IiC
 
  ## Annie Chandolu
+
+ ### Subtopic: *Analysis on weekly-cases and deaths-weekly counts*
 
  I am doing an analysis on a Covid dataset which is stored in the following repository:
 
