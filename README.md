@@ -123,7 +123,7 @@ https://app.vidgrid.com/view/zGuTOAcK3IiC
 
 I am working on providing Countrywise highest recovery rate versus death rates on Covid data.
 
-#### Pre-requites:
+#### Prerequisites:
 - Python
 - Flink
 - pip
