@@ -117,4 +117,14 @@ https://app.vidgrid.com/view/zGuTOAcK3IiC
 
  https://use.vg/hboCoj
 
+## Harika Kulkarni
+
+### Subtopic:Countrywise highest recovery rates versus death rates
+
+I am working on providing Countrywise highest recovery rate versus death rates on Covid data.
+
+Pre-requites:
+1.Python
+2.Flink
+3.pip
 
