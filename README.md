@@ -128,3 +128,8 @@ I am working on providing Countrywise highest recovery rate versus death rates o
 - Flink
 - pip
 
+# Naga Anshitha velagapudi
+
+## Subtopic: Analysis of active and critical cases
+
+Dataset - [Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/README.md)
