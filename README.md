@@ -144,6 +144,8 @@ We can perform the following using Google Colab.
 - Step1: As Colab implicitly uses Google Drive for storing your notebooks, ensure that you are logged in to your Google Drive account before proceeding further.
 - Step2: Open the following URL in your browser: https://colab.research.google.com
 Your browser would display the following screen (assuming that you are logged into your Google Drive):  
+- Step3:Click on the NEW NOTEBOOK link at the bottom of the screen. A new notebook would open up as shown in the screen below.
+- Step4:You will now enter a trivial Python code in the code window and execute it.Enter the following two Python statements in the code window and click on the arrow on the left side of the code window.
 
 
 # Naga Anshitha velagapudi
