@@ -163,6 +163,8 @@ Your browser would display the following screen (assuming that you are logged in
 - Step7: Comparing between TotalDeaths and TotalRecovered from Covid data.
 ![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/bar%20graph%20showing%20the%20deaths%20vs%20recovered.JPG)
 
+ Output File:[Link to Output file](https://github.com/KHARIKA17/bigdata_group4_harika/blob/main/Bigdata_assg.ipynb)
+
 ### Demonstration Video Link: [Video Link](https://app.vidgrid.com/view/mQgPtWuJlcEU)
 
 # Naga Anshitha velagapudi
