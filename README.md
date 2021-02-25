@@ -153,13 +153,13 @@ Your browser would display the following screen (assuming that you are logged in
 - Step4: You will now enter a trivial Python code in the code window and execute it.Enter the following two Python statements in the code window and click on the arrow on the left side of the code window.
 ![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/third%20screen%20new.png)
 
--Step5:Install apache-flink and all necessary packages using below command.
+- Step5: Install apache-flink and all necessary packages using below command.
 ![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/apache%20flink%20installation.JPG)
 
--Step6: Reading the data from Input file.
+- Step6: Reading the data from Input file.
 ![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Reading%20the%20data%20from%20input%20file.JPG)
 
--Step7:Comparing between TotalDeaths and TotalRecovered.
+- Step7: Comparing between TotalDeaths and TotalRecovered from Covid data.
 ![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/bar%20graph%20showing%20the%20deaths%20vs%20recovered.JPG)
 
 
