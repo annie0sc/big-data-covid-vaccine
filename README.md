@@ -140,6 +140,12 @@ We can perform the following using Google Colab.
 - Integrate PyTorch, TensorFlow, Keras, OpenCV
 - Free Cloud service with free GPU
 
+#### Steps for Using Google colab:
+- Step1: As Colab implicitly uses Google Drive for storing your notebooks, ensure that you are logged in to your Google Drive account before proceeding further.
+- Step2: Open the following URL in your browser: https://colab.research.google.com
+Your browser would display the following screen (assuming that you are logged into your Google Drive):  
+
+
 # Naga Anshitha velagapudi
 
 ## Subtopic: Analysis of active and critical cases
