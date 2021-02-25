@@ -141,6 +141,7 @@ We can perform the following using Google Colab.
 - Free Cloud service with free GPU
 
 #### Steps for Using Google colab:
+  Input File: [Link to input file](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/worldometer_data.csv)
 - Step1: As Colab implicitly uses Google Drive for storing your notebooks, ensure that you are logged in to your Google Drive account before proceeding further.
 
 - Step2: Open the following URL in your browser: https://colab.research.google.com
