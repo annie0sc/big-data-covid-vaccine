@@ -128,6 +128,18 @@ I am working on providing Countrywise highest recovery rate versus death rates o
 - Flink
 - pip
 
+### Google Colab:
+Colab is a Python development environment that runs in the browser using Google Cloud.
+We can perform the following using Google Colab.
+- Write and execute code in Python
+- Document your code that supports mathematical equations
+- Create/Upload/Share notebooks
+- Import/Save notebooks from/to Google Drive
+- Import/Publish notebooks from GitHub
+- Import external datasets e.g. from Kaggle
+- Integrate PyTorch, TensorFlow, Keras, OpenCV
+- Free Cloud service with free GPU
+
 # Naga Anshitha velagapudi
 
 ## Subtopic: Analysis of active and critical cases
