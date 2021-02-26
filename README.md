@@ -79,7 +79,7 @@ choco uninstall python
 ```
 To install python of a specific version use the below command
 ```
-choco install python version=3.8.0
+choco install python --version=3.8.0
 ```
 ## Installation steps for PyFlink
 
