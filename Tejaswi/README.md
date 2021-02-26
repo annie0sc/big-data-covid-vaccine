@@ -35,6 +35,12 @@ Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally
 ## Code for wordcount using pyflink:
 
 ```
+import logging
+import os
+import shutil
+import sys
+import tempfile
+
 from flink.plan.Environment import get_environment
 from flink.functions.GroupReduceFunction import GroupReduceFunction
 
@@ -55,24 +61,20 @@ data \
   .output()
 
 env.execute(local=True)
-```
-- To read data from files
 
-```
+# To read data from files
+
 env = get_environment()
 text = env.read_text("file:///path/to/file")
-```
+# Transformations to the new dataset
 
-- Dataset that needs to be written to disk.Can call one of these methods on DataSet:
-```
+data.map(lambda x: x*2)
+
+# Dataset that needs to be written to disk.Can call one of these methods on DataSet:
+
 data.write_text("<file-path>", WriteMode=Constants.NO_OVERWRITE)
 write_csv("<file-path>", line_delimiter='\n', field_delimiter=',', write_mode=Constants.NO_OVERWRITE)
 output()
-```
-- Transformations to the new dataset
-
-```
-data.map(lambda x: x*2)
 ```
 ### Output: 
 
