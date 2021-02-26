@@ -34,53 +34,15 @@ Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally
 
 ## Code for wordcount using pyflink:
 
-```
-import logging
-import os
-import shutil
-import sys
-import tempfile
+## Script:
 
-from flink.plan.Environment import get_environment
-from flink.functions.GroupReduceFunction import GroupReduceFunction
+![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Tejaswi/Wordcount.PNG)
 
-class Adder(GroupReduceFunction):
-  def reduce(self, iterator, collector):
-    count, word = iterator.next()
-    count += sum([x[0] for x in iterator])
-    collector.collect((count, word))
-
-env = get_environment()
-data = env.from_elements("Who's there?",
- "I think I hear them. Stand, ho! Who's there?")
-
-data \
-  .flat_map(lambda x, c: [(1, word) for word in x.lower().split()]) \
-  .group_by(1) \
-  .reduce_group(Adder(), combinable=True) \
-  .output()
-
-env.execute(local=True)
-
-# To read data from files
-
-env = get_environment()
-text = env.read_text("file:///path/to/file")
-# Transformations to the new dataset
-
-data.map(lambda x: x*2)
-
-# Dataset that needs to be written to disk.Can call one of these methods on DataSet:
-
-data.write_text("<file-path>", WriteMode=Constants.NO_OVERWRITE)
-write_csv("<file-path>", line_delimiter='\n', field_delimiter=',', write_mode=Constants.NO_OVERWRITE)
-output()
-```
 ### Output: 
 
-* I have run this code in Flink in Local Machine iam getting Module_not found error iam trying to resolve it.I will update it once it gets resolved.
+![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Tejaswi/Output.PNG)
 
 ### References:
 
-* [ApacheFlinkExample](https://ci.apache.org/projects/flink/flink-docs-release-1.0/apis/batch/python.html)
-* [ApacheFLink](https://flink.apache.org/)
+* [ApacheFlink](https://ci.apache.org/projects/flink/flink-docs-release-1.0/apis/batch/python.html)
+* [StackOverFlow](https://stackoverflow.com/questions/63367299/how-can-you-load-a-csv-into-pyflink-as-a-streaming-table-source)
