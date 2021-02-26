@@ -164,7 +164,8 @@ Your browser would display the following screen (assuming that you are logged in
 ![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/bar%20graph%20showing%20the%20deaths%20vs%20recovered.JPG)
 
  Output File:[Link to Output file](https://github.com/KHARIKA17/bigdata_group4_harika/blob/main/Bigdata_assg.ipynb)
-
+ 
+ References:[https://flink.apache.org/flink-architecture.html](https://flink.apache.org/flink-architecture.html)
 ### Demonstration Video Link: [Video Link](https://app.vidgrid.com/view/mQgPtWuJlcEU)
 
 # Naga Anshitha velagapudi
