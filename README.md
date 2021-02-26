@@ -49,7 +49,7 @@ Covid-19 is currently the topic of research this season. We have decided to work
 1. Annie Samarpitha Chandolu- Analysis on weekly-cases and deaths-weekly counts.
 1. Alekhya Jaddu - Wordcount using pyFlink.
 1. Tejaswi Reddy Kandula - Wordcount for all covidcases using pyFlink for the dataset [covid_19_clean_complete](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/covid_19_clean_complete.csv)
-1. Naga Anshitha Velagapudi - Analyze active and critical cases.
+1. Naga Anshitha Velagapudi - Analyzing number of times/days the country had taken vaccinations.
 1. Harika Kulkarni - countrywise highest recovery rates versus death rates.
 
 ## Prerequisites
@@ -171,16 +171,21 @@ Your browser would display the following screen (assuming that you are logged in
 # Naga Anshitha velagapudi
 
 ## Subtopic: 
-I'm working on Analysis of active and critical cases
+I'm working on analyzing number of times/days the country had taken vaccinations.
 
 ### My Repo: 
 [Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/README.md)
 
 ### Dataset:
-[Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/worldometer_data.csv)
+[Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/vaccinations.csv)
 
 ### Input:
-[Link]
+[Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/word_count_vaccine.py)
 
 ### Output:
-![]()
+![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/output_vaccines.csv)
+
+### References:
+1. [Description](https://www.alibabacloud.com/blog/the-flink-ecosystem-a-quick-start-to-pyflink_596150)
+2. [Kaggle](https://www.kaggle.com/schandra005/covid-19-vaccination)
+3. [Code](https://stackoverflow.com/questions/63367299/how-can-you-load-a-csv-into-pyflink-as-a-streaming-table-source)
