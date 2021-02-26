@@ -67,7 +67,7 @@ t_env = BatchTableEnvironment.create(exec_env, t_config)
     )
     .create_temporary_table("mySink")
 ```
-- Wordcount for all country cases
+- DDL commands to count all country cases
 ```
 t_env.from_path("mySource")
     .group_by("word")
