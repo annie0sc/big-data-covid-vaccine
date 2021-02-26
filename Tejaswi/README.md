@@ -91,3 +91,4 @@ t_env.execute("word_count2")
 
 * [ApacheFlinkExample](https://ci.apache.org/projects/flink/flink-docs-release-1.0/apis/batch/python.html)
 * [StackOverFlow](https://stackoverflow.com/questions/63367299/how-can-you-load-a-csv-into-pyflink-as-a-streaming-table-source)
+* [API](https://www.bookstack.cn/read/Flink-1.10-en/5429ac7abe3afbba.md)
