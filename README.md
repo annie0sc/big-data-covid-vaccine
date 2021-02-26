@@ -96,14 +96,14 @@ You can also build PyFlink from source by following the development guide.
 Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally on Windows and so you could develop and debug PyFlink jobs on Windows.
 
 ### Code for Word Count using PyFlink:
-[word_count.py](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Alekhya/word_count.py)
+[wordcount.py](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Alekhya/wordcount.py)
 ### Input file
-[input.txt](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Alekhya/covid19-INDIA.txt) 
+[full_grouped.csv](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/full_grouped.csv) 
 ### Output file
-[output.txt](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Alekhya/output.txt)
+[output.csv](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Alekhya/output.csv-00000-of-00001)
 
 ### Demonstration video
-https://app.vidgrid.com/view/zGuTOAcK3IiC
+https://app.vidgrid.com/view/QTuVfghYRV38
 
  ## Annie Chandolu
 
