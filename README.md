@@ -218,4 +218,5 @@ I'm working on analyzing number of times/days a country had taken vaccinations.
 ## My repo : https://github.com/annie0sc/big-data-covid-vaccine/tree/main/Swaroop%20Reddy
 
 ## My Demo Vedio link:
-![Demo Individual](https://use.vg/F8fJpT)
+- https://use.vg/F8fJpT
+
