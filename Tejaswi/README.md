@@ -32,8 +32,53 @@ Note Starting from Flink 1.11, it’s also supported to run PyFlink jobs locally
 ### Video:
 [Link to Video](https://app.vidgrid.com/view/ELbJK68EX0hP) 
 
+- Used the below command in powershell terminal to excute the python script
+```
+$ python column.py
+```
 ## Code for wordcount using pyflink:
 
+- Table API applications begin by declaring a table environment; either a BatchTableEvironment for batch applications or StreamTableEnvironment for streaming applications. This serves as the main entry point for interacting with the Flink runtime. It can be used for setting execution parameters such as restart strategy, default parallelism, etc. The table config allows setting Table API specific configurations.
+
+```
+exec_env = ExecutionEnvironment.get_execution_environment()
+exec_env.set_parallelism(1)
+t_config = TableConfig()
+t_env = BatchTableEnvironment.create(exec_env, t_config)
+```
+- It is used to create a TABLE as known from relational databases from a connector declaration.The connector describes the external system that stores the data of a table. Storage systems such as Apacha Kafka or a regular file system can be declared here.Below is the code to declare connector using source and sink.
+
+- The table environment created, then declare source
+
+```
+ t_env.connect(FileSystem().path(str(root / "covid_19_clean_complete.csv")))
+    .with_format(Csv())
+    .with_schema(
+        Schema().field("Date", DataTypes.DATE(True)).field("word", DataTypes.STRING())
+    )
+    .create_temporary_table("mySource")
+```
+- To declare sink.
+```
+ t_env.connect(FileSystem().path(str(out_path)))
+    .with_format(Csv())
+    .with_schema(
+        Schema().field("word", DataTypes.STRING()).field("count", DataTypes.BIGINT())
+    )
+    .create_temporary_table("mySink")
+```
+- Wordcount for all country cases
+```
+t_env.from_path("mySource")
+    .group_by("word")
+    .select("word, count(1) as count")
+    .filter("count > 1")
+    .insert_into("mySink")
+ ```
+ - To execute
+ ```
+t_env.execute("word_count2")
+ ```
 ## Script:
 
 ![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Tejaswi/Wordcount.PNG)
