@@ -170,8 +170,17 @@ Your browser would display the following screen (assuming that you are logged in
 
 # Naga Anshitha velagapudi
 
-## Subtopic: Analysis of active and critical cases
+## Subtopic: 
+I'm working on Analysis of active and critical cases
 
-My Repo - [Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/README.md)
+### My Repo: 
+[Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/README.md)
 
-Dataset - [Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/worldometer_data.csv)
+### Dataset:
+[Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/worldometer_data.csv)
+
+### Input:
+[Link]
+
+### Output:
+![]()
