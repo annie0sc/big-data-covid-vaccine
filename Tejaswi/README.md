@@ -85,6 +85,9 @@ t_env.execute("word_count2")
 
 ### Output: 
 
+1.Output dataset after executing the complete covid cases dataset.
+* [Outputdataset](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Tejaswi/output.csv)
+
 ![](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Tejaswi/Output.PNG)
 
 ### References:
