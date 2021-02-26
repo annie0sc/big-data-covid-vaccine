@@ -191,3 +191,31 @@ I'm working on analyzing number of times/days a country had taken vaccinations.
 1. [Description](https://www.alibabacloud.com/blog/the-flink-ecosystem-a-quick-start-to-pyflink_596150)
 2. [Kaggle_Dataset](https://www.kaggle.com/schandra005/covid-19-vaccination)
 3. [Code_Reference](https://stackoverflow.com/questions/63367299/how-can-you-load-a-csv-into-pyflink-as-a-streaming-table-source)
+
+## Swaroop Reddy
+### Sub topic: Writing a Flink python datastream API program.
+#### Prerequisites:
+- Python
+- Flink
+- pip
+
+### Excution Steps 
+-Installing Pyflink
+* $ python -m pip install apache-flink
+-  packages
+* from pyflink.common.serialization import SimpleStringEncoder
+* from pyflink.common.typeinfo import Types
+* from pyflink.datastream import StreamExecutionEnvironment
+* from pyflink.datastream.connectors import StreamingFileSink
+- you have run this command First, make sure that the output directory doesn’t exist:
+* rm -rf /tmp/output
+- Then you have to run the example you just created on the command line:
+* $ python datastream_tutorial.py
+- Finally, you can see the result on the command line which is in /tmp/output folder:
+* $ find /tmp/output -type f -exec cat {} \;
+* 1,aaa
+* 2,bbb
+## My repo : https://github.com/annie0sc/big-data-covid-vaccine/tree/main/Swaroop%20Reddy
+
+## My Demo Vedio link:
+![Demo Individual](https://use.vg/F8fJpT)
