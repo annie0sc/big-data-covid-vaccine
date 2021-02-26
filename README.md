@@ -215,7 +215,8 @@ I'm working on analyzing number of times/days a country had taken vaccinations.
 * $ find /tmp/output -type f -exec cat {} \;
 * 1,aaa
 * 2,bbb
-## My repo : https://github.com/annie0sc/big-data-covid-vaccine/tree/main/Swaroop%20Reddy
+## My repo :
+- https://github.com/annie0sc/big-data-covid-vaccine/tree/main/Swaroop%20Reddy
 
 ## My Demo Vedio link:
 - https://use.vg/F8fJpT
