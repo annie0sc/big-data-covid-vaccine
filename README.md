@@ -171,7 +171,9 @@ Your browser would display the following screen (assuming that you are logged in
 # Naga Anshitha velagapudi
 
 ## Subtopic: 
-I'm working on analyzing number of times/days the country had taken vaccinations.
+I'm working on analyzing number of times/days a country had taken vaccinations.
+
+[Demonstration Video](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/Video.mp4)
 
 ### My Repo: 
 [Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/README.md)
@@ -187,5 +189,5 @@ I'm working on analyzing number of times/days the country had taken vaccinations
 
 ### References:
 1. [Description](https://www.alibabacloud.com/blog/the-flink-ecosystem-a-quick-start-to-pyflink_596150)
-2. [Kaggle](https://www.kaggle.com/schandra005/covid-19-vaccination)
-3. [Code](https://stackoverflow.com/questions/63367299/how-can-you-load-a-csv-into-pyflink-as-a-streaming-table-source)
+2. [Kaggle_Dataset](https://www.kaggle.com/schandra005/covid-19-vaccination)
+3. [Code_Reference](https://stackoverflow.com/questions/63367299/how-can-you-load-a-csv-into-pyflink-as-a-streaming-table-source)
