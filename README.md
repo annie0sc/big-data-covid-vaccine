@@ -48,7 +48,7 @@ Covid-19 is currently the topic of research this season. We have decided to work
 1. Swaroop Reddy Gottigundala- Datastream Processing.
 1. Annie Samarpitha Chandolu- Analysis on weekly-cases and deaths-weekly counts.
 1. Alekhya Jaddu - Wordcount using pyFlink.
-1. Tejaswi Reddy Kandula - Wordcount using Flink
+1. Tejaswi Reddy Kandula - Wordcount for all covidcases using pyFlink for the dataset [covid_19_clean_complete](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/covid_19_clean_complete.csv)
 1. Naga Anshitha Velagapudi - Analyze active and critical cases.
 1. Harika Kulkarni - countrywise highest recovery rates versus death rates.
 
