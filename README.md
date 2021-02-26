@@ -183,7 +183,7 @@ I'm working on analyzing number of times/days the country had taken vaccinations
 [Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/word_count_vaccine.py)
 
 ### Output:
-![Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/output_vaccines.csv)
+[Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/output_vaccines.csv)
 
 ### References:
 1. [Description](https://www.alibabacloud.com/blog/the-flink-ecosystem-a-quick-start-to-pyflink_596150)
