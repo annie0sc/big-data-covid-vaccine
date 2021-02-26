@@ -1,7 +1,6 @@
 ## Naga Anshitha Velagapudi
-[Video](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/zoom_0.mp4)
 
-[Dataset](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/worldometer_data.csv)
+[Dataset](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/vaccinations.csv)
 
 # Flink
 [Flink-python](https://github.com/apache/flink/tree/master/flink-python)
@@ -32,3 +31,8 @@ To understand why, let's first consider some of the benefits of using the Flink 
 - Establish a handshake between a Python virtual machine (PyVM) and a Java virtual machine (JVM), which is essential for Flink to support multiple languages.
 - To resolve this issue, we must select an appropriate communications technology.
 - They are Apache Beam and Py4J.
+
+### References:
+1. [Description](https://www.alibabacloud.com/blog/the-flink-ecosystem-a-quick-start-to-pyflink_596150)
+2. [Kaggle](https://www.kaggle.com/schandra005/covid-19-vaccination)
+3. [Code](https://stackoverflow.com/questions/63367299/how-can-you-load-a-csv-into-pyflink-as-a-streaming-table-source)
