@@ -45,7 +45,7 @@ Covid-19 is currently the topic of research this season. We have decided to work
 * Harika Kulkarni - Will be working on Flink.
 
 ## SubTopics:
-1. Swaroop Reddy Gottigundala- Datastream Processing.
+1. Swaroop Reddy Gottigundala- Writing a Flink python datastream API program.
 1. Annie Samarpitha Chandolu- Analysis on weekly-cases and deaths-weekly counts.
 1. Alekhya Jaddu - Wordcount using pyFlink.
 1. Tejaswi Reddy Kandula - Wordcount for all covidcases using pyFlink for the dataset [covid_19_clean_complete](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/datasets/covid_19_clean_complete.csv)
