@@ -175,7 +175,9 @@ Your browser would display the following screen (assuming that you are logged in
 ## Subtopic: 
 I'm working on analyzing number of times/days a country had taken vaccinations.
 
-[Demonstration Video](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/Video.mp4)
+[Demonstration Video](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/Video.mp4) 
+
+**Click on view raw to view/access the video
 
 ### My Repo: 
 [Link](https://github.com/annie0sc/big-data-covid-vaccine/blob/main/Anshitha/README.md)
